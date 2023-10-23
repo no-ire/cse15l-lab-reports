@@ -5,14 +5,14 @@ Date: 10-22-23
 
 # Lab Report 1
 
-1. ![Screenshot 2023-10-09 230515](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/21373086-3bc0-4aba-8245-47be9b9d42a3)
+1. ![Screenshot 2023-10-09 230515](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/85f62549-0e07-455b-a4a7-adbd78323a13)
+
 
 The working directory is /home/lecture1
 After entering the code, my working directory changed (can see from the bottom screenshot) This is because no arguments were inputted (so I think it basically sets it to /home (default?)). This is not an error.
 
-2. ![Screenshot 2023-10-09 230533](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/d800510a-8836-478a-9f53-3a06ed9c77d7)
-![Screenshot 2023-10-09 230549](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/f1847289-5e82-4d0a-802b-a1848f20e657)
-
+2. ![Screenshot 2023-10-09 230533](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/079e5633-f618-4b4a-ac65-962c6e0e53c1)
+![Screenshot 2023-10-09 230549](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/d68d412e-776c-4c11-abbf-0c3c65bdb6eb)
 
 This time when I input lecture1 as my argument when using the cd command, my working directory became /home/lecture1 because the command changed my working directory. This is not an error either.
 
