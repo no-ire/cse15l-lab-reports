@@ -12,15 +12,17 @@ The working directory is /home/lecture1
 After entering the code, my working directory changed (can see from the bottom screenshot) This is because no arguments were inputted (so I think it basically sets it to /home (default?)). This is not an error.
 
 2. ![Screenshot 2023-10-09 230533](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/079e5633-f618-4b4a-ac65-962c6e0e53c1)
+
 ![Screenshot 2023-10-09 230549](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/d68d412e-776c-4c11-abbf-0c3c65bdb6eb)
 
 This time when I input lecture1 as my argument when using the cd command, my working directory became /home/lecture1 because the command changed my working directory. This is not an error either.
 
-3. ![Screenshot 2023-10-09 230549](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/6e792b6c-c489-4ca3-a569-35152123998a)
+3. ![Screenshot 2023-10-09 230549](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/b6a2ea21-c657-4c12-a33f-577675ecd19f)
+
 
 In this screenshot, I tried to change the directory into a file. This didn’t work and produced an error. I think it’s because the text files aren’t directories and the command ‘cd’ is only meant for directories.
 
-4. ![Screenshot 2023-10-09 231148](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/2a4ac615-a937-449d-849e-86b7452864a1)
+4. ![Screenshot 2023-10-09 231148](https://github.com/no-ire/cse15l-lab-reports/assets/146776005/38a3f95f-00fe-42af-a2e8-90cfc335bc23)
 
 In this screenshot, I set the working directory to /home by not including any arguments in when using cd. What ls was able to was show list the folders in the path which is lecture1. Not an error.
 
